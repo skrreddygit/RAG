@@ -1,0 +1,5 @@
+
+Machine learning Fundamentals
+Machine Learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions.
+These algorithms learn from and make predictions or decisions based on data. 
+Machine learning is widely used in various applications, including email filtering, fraud detection, recommendation systems, and image recognition.
